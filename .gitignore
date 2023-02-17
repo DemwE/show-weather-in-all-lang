@@ -2,3 +2,6 @@ node_modules
 pnpm-lock.yaml
 package.json
 .env
+go.mod
+go.sum
+main.go
