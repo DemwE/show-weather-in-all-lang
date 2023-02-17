@@ -4,4 +4,4 @@ package.json
 .env
 go.mod
 go.sum
-main.go
+main.exe
